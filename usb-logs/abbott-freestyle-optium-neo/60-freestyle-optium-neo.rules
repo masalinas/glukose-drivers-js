@@ -1,0 +1,6 @@
+# Create a udev rule on /etc/udev/rules.d to have access to the usb device called 60-freestyle-optium-neo.rule like this
+# change the group with yours
+ATTRS{idVendor}=="1a61", ATTRS{idProduct}=="3850", SUBSYSTEMS=="usb", ACTION=="add", MODE="0666", GROUP+="miguel"
+
+# refresh udev
+sudo udevadm trigger

@@ -1,0 +1,77 @@
+// Protocols
+/**************************************/
+// Command: $date
+// Description: get actual device date
+// Bytes: B[2]B[3]B[4]B[5]B[6] -> [month][,][day][,][year]
+/**************************************/
+// Command: $time
+// Description: get actual device time
+// Bytes: B[2]B[3]B[4] -> [hour][,][minute]
+/**************************************/
+// Command: $serlnum
+// Description: device serial number
+// Bytes:
+/**************************************/
+// Command: $swver
+// Description: device software version
+// Bytes:
+/**************************************/
+// Command: $ptname
+// Description: device patient name
+// Bytes:
+/**************************************/
+// Command: $ptid
+// Description: device patient id
+// Bytes:
+/**************************************/
+// Command: $mtrmode
+// Description:
+// Bytes:
+/**************************************/
+// Command: $gunits
+// Description:
+// Bytes:
+/**************************************/
+// Command: $mldose
+// Description: insulin dose
+// Bytes:
+/**************************************/
+// Command: $bsldose
+// Description: basal dose
+// Bytes:
+/**************************************/
+// Command: $dosrsttime
+// Description:
+// Bytes:
+/**************************************/
+// Command: $bsltitsetup
+// Description: basal setup
+// Bytes:
+/**************************************/
+// Command: $corsetone
+// Description:
+// Bytes:
+/**************************************/
+// Command: $corsettwo
+// Description:
+// Bytes:
+/**************************************/
+// Command: $qctstschdl
+// Description: standard schedule
+// Bytes:
+/**************************************/
+// Command: $titdate
+// Description:
+// Bytes:
+/**************************************/
+// Command: $indicatoronoff
+// Description:
+// Bytes:
+/**************************************/
+// Command: $event
+// Description:
+// Bytes:
+/**************************************/
+// Command: $result
+// Description:
+// Bytes:
