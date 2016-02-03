@@ -2,10 +2,10 @@
 NodeJs glucometer protocol implementation using Reverse Engineering Hacking techniques
 
 # Hacked Devices
-- [FreeStyle Optium Neo Sevice from Abbott](http://www.abbottdiabetescare.es/freestyle-optium-neo)
+- [FreeStyle Optium Neo Glucometer from Abbott](http://www.abbottdiabetescare.es/freestyle-optium-neo)
 
 # Sniffing Tools
-The sniffing tool used for reverse the glucometer device protocols is the Windows [USBTrace](http://www.sysnucleus.com/)
+The sniffing tool used for reverse engineering the glucometer device protocols is the Windows tool called [USBTrace](http://www.sysnucleus.com/)
 
 # The application uses
 - [NodeJs](https://nodejs.org/en/) version 0.12.2: JavaScript runtime built on Chrome's V8 JavaScript engine.
