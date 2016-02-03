@@ -1,5 +1,5 @@
 # glukose-drivers
-NodeJs glucomenter protocol implementation using Reverse Engineering Hacking techniques
+NodeJs glucometer protocol implementation using Reverse Engineering Hacking techniques
 
 # Hacked Devices
 - [FreeStyle Optium Neo Sevice from Abbott](http://www.abbottdiabetescare.es/freestyle-optium-neo)
